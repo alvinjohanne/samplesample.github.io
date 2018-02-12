@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+</style>
+</head>
+<body>
+
+<h1 style="color:white"><i>AJ Resume Sample</i></h1>
+
+
+
+</body>
+</html>
